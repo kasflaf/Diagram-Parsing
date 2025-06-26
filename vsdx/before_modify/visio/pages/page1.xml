@@ -1,0 +1,1262 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PageContents xmlns='http://schemas.microsoft.com/office/visio/2012/main'
+    xmlns:r='http://schemas.openxmlformats.org/officeDocument/2006/relationships' xml:space='preserve'>
+    <Shapes>
+        <Shape ID='24' Type='Shape' Master='2'>
+            <Cell N='PinX' V='5.67'/>
+            <Cell N='PinY' V='7.8309'/>
+            <Cell N='Width' V='1.1158'/>
+            <Cell N='LocPinX' V='0.5579' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.01041666666666667' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#31528f' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='0.5579' F='Inh'/>
+            <Cell N='TxtWidth' V='1.1158' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.5579' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='X' V='0.5579' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='0.5579' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='1.1158' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.9283' U='IN' F='Inh'/>
+                </Row>
+                <Row T='EllipticalArcTo' IX='3'>
+                    <Cell N='X' V='0.9283' U='IN' F='Inh'/>
+                    <Cell N='A' V='1.1158' U='DL' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+hancurkancandi()
+            </Text>
+        </Shape>
+        <Shape ID='25' Type='Shape' Master='7'>
+            <Cell N='PinX' V='5.67'/>
+            <Cell N='PinY' V='6.8326'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.01041666666666667' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#31528f' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+apakah user roro?
+            </Text>
+        </Shape>
+        <Shape ID='27' Type='Shape' Master='7'>
+            <Cell N='PinX' V='5.6701'/>
+            <Cell N='PinY' V='5.0504'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.01041666666666667' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#31528f' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+apakah id candi terdaftar
+            </Text>
+        </Shape>
+        <Shape ID='28' Type='Shape' Master='5'>
+            <Cell N='PinX' V='5.6701'/>
+            <Cell N='PinY' V='5.8342'/>
+            <Cell N='Width' V='1.4999'/>
+            <Cell N='Height' V='0.375'/>
+            <Cell N='LocPinX' V='0.74995' F='Inh'/>
+            <Cell N='LocPinY' V='0.1875' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.003472222222222222' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#c8c8c8' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='0.74995' F='Inh'/>
+            <Cell N='TxtPinY' V='0.1875' F='Inh'/>
+            <Cell N='TxtWidth' V='0.9999333333333382' F='Inh'/>
+            <Cell N='TxtHeight' V='0.375' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.4999666666666691' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1875' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+                <Row N='ResizeWithText'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Times New Roman'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1666666666666667'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='1.4999' F='Inh'/>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='2'>
+                    <Cell N='X' V='0.74995' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='0.74995' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Scratch'>
+                <Row IX='0'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='1.40615' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='1.59365' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='5'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+input(id_candi)
+            </Text>
+        </Shape>
+        <Shape ID='29' Type='Shape' Master='5'>
+            <Cell N='PinX' V='5.67'/>
+            <Cell N='PinY' V='4.0521'/>
+            <Cell N='Width' V='1.7955'/>
+            <Cell N='Height' V='0.375'/>
+            <Cell N='LocPinX' V='0.89775' F='Inh'/>
+            <Cell N='LocPinY' V='0.1875' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.003472222222222222' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#c8c8c8' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='0.89775' F='Inh'/>
+            <Cell N='TxtPinY' V='0.1875' F='Inh'/>
+            <Cell N='TxtWidth' V='1.197000000000006' F='Inh'/>
+            <Cell N='TxtHeight' V='0.375' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.5985000000000029' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1875' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+                <Row N='ResizeWithText'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='1.7955' F='Inh'/>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='2'>
+                    <Cell N='X' V='0.89775' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='0.89775' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Scratch'>
+                <Row IX='0'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='1.70175' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='1.88925' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='5'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+input(konfirmasi)
+            </Text>
+        </Shape>
+        <Shape ID='31' Type='Shape' Master='7'>
+            <Cell N='PinX' V='5.6701'/>
+            <Cell N='PinY' V='2.9497'/>
+            <Cell N='Width' V='2.1249'/>
+            <Cell N='Height' V='0.9582'/>
+            <Cell N='LocPinX' V='1.06245' F='Inh'/>
+            <Cell N='LocPinY' V='0.4791' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.01041666666666667' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#31528f' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='1.06245' F='Inh'/>
+            <Cell N='TxtPinY' V='0.4791' F='Inh'/>
+            <Cell N='TxtWidth' V='1.770749999999993' F='Inh'/>
+            <Cell N='TxtHeight' V='0.71865' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.8853749999999966' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.359325' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+                <Row N='ResizeWithText'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='Y' V='0.4791' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='2.1249' F='Inh'/>
+                    <Cell N='Y' V='0.4791' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='2'>
+                    <Cell N='X' V='1.06245' F='Inh'/>
+                    <Cell N='Y' V='0.9582' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='1.06245' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0' F='Inh'/>
+                    <Cell N='Y' V='0.4791' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='1.06245' F='Inh'/>
+                    <Cell N='Y' V='0.9582' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='2.1249' F='Inh'/>
+                    <Cell N='Y' V='0.4791' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='1.06245' F='Inh'/>
+                    <Cell N='Y' V='0' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='5'>
+                    <Cell N='X' V='0' F='Inh'/>
+                    <Cell N='Y' V='0.4791' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+konfirmasi (Y/N)
+            </Text>
+        </Shape>
+        <Shape ID='36' Type='Shape' Master='15'>
+            <Cell N='PinX' V='5.67005' F='Inh'/>
+            <Cell N='PinY' V='4.4575' F='Inh'/>
+            <Cell N='Width' V='-0.25' F='GUARD(-0.25DL)'/>
+            <Cell N='Height' V='-0.4358' F='GUARD(EndY-BeginY)'/>
+            <Cell N='LocPinX' V='-0.125' F='Inh'/>
+            <Cell N='LocPinY' V='-0.2179' F='Inh'/>
+            <Cell N='BeginX' V='5.6701' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='4.6754' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='5.67' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='EndY' V='4.2396' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.27!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.29!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='-0.125049999999999' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.2178500000000008' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2778282864040799' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1389141432020399' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='-0.1250499999999989'/>
+                    <Cell N='Y' V='-0.2178500000000011'/>
+                    <Cell N='XDyn' V='-0.125049999999999' F='Inh'/>
+                    <Cell N='YDyn' V='-0.2178500000000008' F='Inh'/>
+                    <Cell N='XCon' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='-0.12495'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='-0.12495'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='-0.12505'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='-0.12505'/>
+                    <Cell N='Y' V='-0.4358'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+Ya
+            </Text>
+        </Shape>
+        <Shape ID='37' Type='Shape' Master='15'>
+            <Cell N='PinX' V='5.6701' F='Inh'/>
+            <Cell N='PinY' V='5.53605' F='Inh'/>
+            <Cell N='Width' V='0.25' F='GUARD(0.25DL)'/>
+            <Cell N='Height' V='-0.25' F='GUARD(-0.25DL)'/>
+            <Cell N='LocPinX' V='0.125' F='Inh'/>
+            <Cell N='LocPinY' V='-0.125' F='Inh'/>
+            <Cell N='BeginX' V='5.6701' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='5.6467' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='5.6701' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='EndY' V='5.4254' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.28!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.27!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConFixedCode' V='6'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.125' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.1250000013969839' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2777777777777778' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1388888888888889' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.125'/>
+                    <Cell N='Y' V='-0.1250000013969839'/>
+                    <Cell N='XDyn' V='0.125' F='Inh'/>
+                    <Cell N='YDyn' V='-0.1250000013969839' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0.125'/>
+                    <Cell N='Y' V='-0.01435000000000031'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.125'/>
+                    <Cell N='Y' V='-0.23565'/>
+                </Row>
+                <Row T='LineTo' IX='3' Del='1'/>
+            </Section>
+        </Shape>
+        <Shape ID='38' Type='Shape' Master='15'>
+            <Cell N='PinX' V='5.67005' F='Inh'/>
+            <Cell N='PinY' V='6.23965' F='Inh'/>
+            <Cell N='Width' V='0.25' F='GUARD(0.25DL)'/>
+            <Cell N='Height' V='-0.4359' F='GUARD(EndY-BeginY)'/>
+            <Cell N='LocPinX' V='0.125' F='Inh'/>
+            <Cell N='LocPinY' V='-0.21795' F='Inh'/>
+            <Cell N='BeginX' V='5.67' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='6.4576' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='5.6701' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='EndY' V='6.0217' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.25!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.28!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.12505' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.2179' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2778282864040799' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1389141432020399' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.12505'/>
+                    <Cell N='Y' V='-0.2179'/>
+                    <Cell N='XDyn' V='0.12505' F='Inh'/>
+                    <Cell N='YDyn' V='-0.2179' F='Inh'/>
+                    <Cell N='XCon' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0.12495'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.12495'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='0.12505'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.12505'/>
+                    <Cell N='Y' V='-0.4359'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+Ya
+            </Text>
+        </Shape>
+        <Shape ID='40' Type='Shape' Master='15'>
+            <Cell N='PinX' V='5.67' F='Inh'/>
+            <Cell N='PinY' V='7.4255' F='Inh'/>
+            <Cell N='Width' V='0.25' F='GUARD(0.25DL)'/>
+            <Cell N='Height' V='-0.4358' F='GUARD(EndY-BeginY)'/>
+            <Cell N='LocPinX' V='0.125' F='Inh'/>
+            <Cell N='LocPinY' V='-0.2179' F='Inh'/>
+            <Cell N='BeginX' V='5.67' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='7.6434' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='5.67' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='EndY' V='7.2076' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.24!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.25!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConFixedCode' V='6'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.125' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.2178999930620194' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2777777777777778' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1388888888888889' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.125'/>
+                    <Cell N='Y' V='-0.2178999930620194'/>
+                    <Cell N='XDyn' V='0.125' F='Inh'/>
+                    <Cell N='YDyn' V='-0.2178999930620194' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0.125'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.125'/>
+                    <Cell N='Y' V='-0.4358'/>
+                </Row>
+                <Row T='LineTo' IX='3' Del='1'/>
+            </Section>
+        </Shape>
+        <Shape ID='41' Type='Shape' Master='15'>
+            <Cell N='PinX' V='6.676804766265551' F='Inh'/>
+            <Cell N='PinY' V='5.036833851464589' F='Inh'/>
+            <Cell N='Width' V='1.013409532531102' F='GUARD(EndX-BeginX)'/>
+            <Cell N='Height' V='-0.25' F='GUARD(-0.25DL)'/>
+            <Cell N='LocPinX' V='0.5067047662655511' F='Inh'/>
+            <Cell N='LocPinY' V='-0.125' F='Inh'/>
+            <Cell N='BeginX' V='6.1701' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='5.0504' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='7.183509532531102' F='PAR(PNT(Sheet.59!Connections.X5,Sheet.59!Connections.Y5))'/>
+            <Cell N='EndY' V='5.02326770292918' F='PAR(PNT(Sheet.59!Connections.X5,Sheet.59!Connections.Y5))'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.27!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.59!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.4931386177301394' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.1385661485354106' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2778282864040799' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1389141432020399' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.4931386177301396'/>
+                    <Cell N='Y' V='-0.1385661485354106'/>
+                    <Cell N='XDyn' V='0.4931386177301394' F='Inh'/>
+                    <Cell N='YDyn' V='-0.1385661485354106' F='Inh'/>
+                    <Cell N='XCon' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='Y' V='-0.1114338514645894'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.1875'/>
+                    <Cell N='Y' V='-0.1114338514645894'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='0.1875'/>
+                    <Cell N='Y' V='-0.1385661485354106'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='1.013409532531099'/>
+                    <Cell N='Y' V='-0.1385661485354106'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+Tidak
+            </Text>
+        </Shape>
+        <Shape ID='44' Type='Shape' Master='15'>
+            <Cell N='PinX' V='5.6701' F='Inh'/>
+            <Cell N='PinY' V='2.21435' F='Inh'/>
+            <Cell N='Width' V='0.25' F='GUARD(0.25DL)'/>
+            <Cell N='Height' V='-0.5124999999999986' F='GUARD(EndY-BeginY)'/>
+            <Cell N='LocPinX' V='0.125' F='Inh'/>
+            <Cell N='LocPinY' V='-0.2562499999999993' F='Inh'/>
+            <Cell N='BeginX' V='5.6701' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='2.4706' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='5.6701' F='PAR(PNT(Sheet.49!Connections.X4,Sheet.49!Connections.Y4))'/>
+            <Cell N='EndY' V='1.9581' F='PAR(PNT(Sheet.49!Connections.X4,Sheet.49!Connections.Y4))'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.31!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.49!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConFixedCode' V='4'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.125' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.2562499940395359' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2778282864040799' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1389141432020399' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.125'/>
+                    <Cell N='Y' V='-0.2562499940395359'/>
+                    <Cell N='XDyn' V='0.125' F='Inh'/>
+                    <Cell N='YDyn' V='-0.2562499940395359' F='Inh'/>
+                    <Cell N='XCon' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0.125'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.125'/>
+                    <Cell N='Y' V='-0.5124999999999986'/>
+                </Row>
+                <Row T='LineTo' IX='3' Del='1'/>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+Y
+            </Text>
+        </Shape>
+        <Shape ID='45' Type='Shape' Master='15'>
+            <Cell N='PinX' V='5.67005' F='Inh'/>
+            <Cell N='PinY' V='3.6467' F='Inh'/>
+            <Cell N='Width' V='0.25' F='GUARD(0.25DL)'/>
+            <Cell N='Height' V='-0.4358' F='GUARD(EndY-BeginY)'/>
+            <Cell N='LocPinX' V='0.125' F='Inh'/>
+            <Cell N='LocPinY' V='-0.2179' F='Inh'/>
+            <Cell N='BeginX' V='5.67' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='3.8646' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='5.6701' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='EndY' V='3.4288' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.29!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.31!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.12505' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.2178500000000008' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2777777777777778' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1388888888888889' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.12505'/>
+                    <Cell N='Y' V='-0.2178500000000011'/>
+                    <Cell N='XDyn' V='0.12505' F='Inh'/>
+                    <Cell N='YDyn' V='-0.2178500000000008' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0.12495'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.12495'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='0.12505'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.12505'/>
+                    <Cell N='Y' V='-0.4358'/>
+                </Row>
+            </Section>
+        </Shape>
+        <Shape ID='49' Type='Shape' Master='11'>
+            <Cell N='PinX' V='5.6701'/>
+            <Cell N='PinY' V='1.7706'/>
+            <Cell N='Width' V='2.8644'/>
+            <Cell N='Height' V='0.375'/>
+            <Cell N='LocPinX' V='1.4322' F='Inh'/>
+            <Cell N='LocPinY' V='0.1875' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.003472222222222222' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#c8c8c8' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='1.4322' F='Inh'/>
+            <Cell N='TxtPinY' V='0.1875' F='Inh'/>
+            <Cell N='TxtWidth' V='2.8644' F='Inh'/>
+            <Cell N='TxtHeight' V='0.375' F='Inh'/>
+            <Cell N='TxtLocPinX' V='1.4322' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1875' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+                <Row N='ResizeWithText'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Times New Roman'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='2.8644' F='Inh'/>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='2'>
+                    <Cell N='X' V='1.4322' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='1.4322' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0' F='Inh'/>
+                    <Cell N='Y' V='0' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='2.8644' F='Inh'/>
+                    <Cell N='Y' V='0' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='2.8644' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='5'>
+                    <Cell N='X' V='0' F='Inh'/>
+                    <Cell N='Y' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+menghapus informasi candi dari array candi
+            </Text>
+        </Shape>
+        <Shape ID='50' Type='Shape' Master='2'>
+            <Cell N='PinX' V='5.6702'/>
+            <Cell N='PinY' V='0.9768'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.01041666666666667' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#31528f' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+end
+            </Text>
+        </Shape>
+        <Shape ID='52' Type='Shape' Master='15'>
+            <Cell N='PinX' V='5.67015' F='Inh'/>
+            <Cell N='PinY' V='1.3737' F='Inh'/>
+            <Cell N='Width' V='0.25' F='GUARD(0.25DL)'/>
+            <Cell N='Height' V='-0.4188000000000012' F='GUARD(EndY-BeginY)'/>
+            <Cell N='LocPinX' V='0.125' F='Inh'/>
+            <Cell N='LocPinY' V='-0.2094000000000006' F='Inh'/>
+            <Cell N='BeginX' V='5.6701' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='1.5831' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='5.6702' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='EndY' V='1.1643' F='_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.49!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.50!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.12505' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.20935' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2777777777777778' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1388888888888889' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.1250500000000008'/>
+                    <Cell N='Y' V='-0.20935'/>
+                    <Cell N='XDyn' V='0.12505' F='Inh'/>
+                    <Cell N='YDyn' V='-0.20935' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='0.12495'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.12495'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='0.1250500000000008'/>
+                    <Cell N='Y' V='-0.1875'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.1250500000000008'/>
+                    <Cell N='Y' V='-0.4188000000000012'/>
+                </Row>
+            </Section>
+        </Shape>
+        <Shape ID='58' Type='Shape' Master='15'>
+            <Cell N='PinX' V='7.1239' U='IN' F='Inh'/>
+            <Cell N='PinY' V='2.94975' F='Inh'/>
+            <Cell N='Width' V='0.7827' U='IN' F='GUARD(EndX-BeginX)'/>
+            <Cell N='Height' V='0.25' F='GUARD(0.25DL)'/>
+            <Cell N='LocPinX' V='0.39135' U='IN' F='Inh'/>
+            <Cell N='LocPinY' V='0.125' F='Inh'/>
+            <Cell N='BeginX' V='6.73255' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='2.9497' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='7.51525' U='IN' F='PAR(PNT(Sheet.60!Connections.X1,Sheet.60!Connections.Y1))'/>
+            <Cell N='EndY' V='2.9498' F='PAR(PNT(Sheet.60!Connections.X1,Sheet.60!Connections.Y1))'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.31!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.60!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.3913' F='Inh'/>
+            <Cell N='TxtPinY' V='0.12505' F='Inh'/>
+            <Cell N='TxtWidth' V='0.6944444444444444' U='PT' F='Inh'/>
+            <Cell N='TxtHeight' V='0.2778282864040799' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.3472222222222222' U='PT' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1389141432020399' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.3913'/>
+                    <Cell N='Y' V='0.12505'/>
+                    <Cell N='XDyn' V='0.3913' F='Inh'/>
+                    <Cell N='YDyn' V='0.12505' F='Inh'/>
+                    <Cell N='XCon' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889' U='PT'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='Y' V='0.12495'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.1875'/>
+                    <Cell N='Y' V='0.12495'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='0.1875'/>
+                    <Cell N='Y' V='0.12505'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.7827'/>
+                    <Cell N='Y' V='0.12505'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+N
+            </Text>
+        </Shape>
+        <Shape ID='59' Type='Shape' Master='5'>
+            <Cell N='PinX' V='8.3105'/>
+            <Cell N='PinY' V='4.9732'/>
+            <Cell N='Width' V='2.5048'/>
+            <Cell N='Height' V='0.375'/>
+            <Cell N='LocPinX' V='1.2524' F='Inh'/>
+            <Cell N='LocPinY' V='0.1875' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.003472222222222222' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#c8c8c8' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='1.2524' F='Inh'/>
+            <Cell N='TxtPinY' V='0.1875' F='Inh'/>
+            <Cell N='TxtWidth' V='1.669866666666675' F='Inh'/>
+            <Cell N='TxtHeight' V='0.375' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.8349333333333374' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1875' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+                <Row N='ResizeWithText'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='Y' V='0.1875' F='Height/2'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='2.5048' F='Width'/>
+                    <Cell N='Y' V='0.1875' F='Height/2'/>
+                </Row>
+                <Row T='Connection' IX='2'>
+                    <Cell N='X' V='1.2524' F='Width/2'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='1.2524' F='Width/2'/>
+                    <Cell N='Y' V='0.375' F='Height'/>
+                </Row>
+                <Row T='Connection' IX='4'>
+                    <Cell N='X' V='0.1254095325311025' F='Width*0.050067683060964'/>
+                    <Cell N='Y' V='0.2375677029291788' F='Height*0.63351387447781'/>
+                    <Cell N='DirX' V='0'/>
+                    <Cell N='DirY' V='0'/>
+                    <Cell N='Type' V='2'/>
+                    <Cell N='AutoGen' V='1'/>
+                    <Cell N='Prompt' V='' F='No Formula'/>
+                </Row>
+            </Section>
+            <Section N='Scratch'>
+                <Row IX='0'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='2.41105' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='2.59855' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='5'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+candi tidak terdaftar
+            </Text>
+        </Shape>
+        <Shape ID='60' Type='Shape' Master='5'>
+            <Cell N='PinX' V='8.5777'/>
+            <Cell N='PinY' V='2.9498'/>
+            <Cell N='Width' V='2.1249'/>
+            <Cell N='Height' V='0.375'/>
+            <Cell N='LocPinX' V='1.06245' F='Inh'/>
+            <Cell N='LocPinY' V='0.1875' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.003472222222222222' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#c8c8c8' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='1.06245' F='Inh'/>
+            <Cell N='TxtPinY' V='0.1875' F='Inh'/>
+            <Cell N='TxtWidth' V='1.416600000000007' F='Inh'/>
+            <Cell N='TxtHeight' V='0.375' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.7083000000000036' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1875' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+                <Row N='ResizeWithText'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='2.1249' F='Inh'/>
+                    <Cell N='Y' V='0.1875' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='2'>
+                    <Cell N='X' V='1.06245' F='Inh'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='1.06245' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Scratch'>
+                <Row IX='0'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='2.03115' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='2.21865' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='5'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+output(candi tidak jadi dihapus)
+            </Text>
+        </Shape>
+        <Shape ID='73' NameU='Data.73' Name='Data.73' Type='Shape' Master='5'>
+            <Cell N='PinX' V='8.3105'/>
+            <Cell N='PinY' V='6.8325'/>
+            <Cell N='Width' V='2.5048'/>
+            <Cell N='Height' V='0.375'/>
+            <Cell N='LocPinX' V='1.2524' F='Inh'/>
+            <Cell N='LocPinY' V='0.1875' F='Inh'/>
+            <Cell N='LayerMember' V='0'/>
+            <Cell N='LineWeight' V='0.003472222222222222' U='PT' F='Inh'/>
+            <Cell N='LineColor' V='#c8c8c8' F='Inh'/>
+            <Cell N='FillBkgnd' V='#4d4d4d' F='Inh'/>
+            <Cell N='TxtPinX' V='1.2524' F='Inh'/>
+            <Cell N='TxtPinY' V='0.1875' F='Inh'/>
+            <Cell N='TxtWidth' V='1.669866666666675' F='Inh'/>
+            <Cell N='TxtHeight' V='0.375' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.8349333333333374' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1875' F='Inh'/>
+            <Section N='Actions'>
+                <Row N='SetDefaultSize'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+                <Row N='ResizeWithText'>
+                    <Cell N='Invisible' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Color' V='#feffff' F='THEMEVAL("TextColor",RGB(0,0,0))'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1388888888888889'/>
+                </Row>
+            </Section>
+            <Section N='Connection'>
+                <Row T='Connection' IX='0'>
+                    <Cell N='Y' V='0.1875' F='Height/2'/>
+                </Row>
+                <Row T='Connection' IX='1'>
+                    <Cell N='X' V='2.5048' F='Width'/>
+                    <Cell N='Y' V='0.1875' F='Height/2'/>
+                </Row>
+                <Row T='Connection' IX='2'>
+                    <Cell N='X' V='1.2524' F='Width/2'/>
+                </Row>
+                <Row T='Connection' IX='3'>
+                    <Cell N='X' V='1.2524' F='Width/2'/>
+                    <Cell N='Y' V='0.375' F='Height'/>
+                </Row>
+                <Row T='Connection' IX='4'>
+                    <Cell N='X' V='0.1254095325311025' F='Width*0.050067683060964'/>
+                    <Cell N='Y' V='0.2375677029291788' F='Height*0.63351387447781'/>
+                    <Cell N='DirX' V='0'/>
+                    <Cell N='DirY' V='0'/>
+                    <Cell N='Type' V='2'/>
+                    <Cell N='AutoGen' V='1'/>
+                    <Cell N='Prompt' V='' F='No Formula'/>
+                </Row>
+            </Section>
+            <Section N='Scratch'>
+                <Row IX='0'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='2.41105' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='2.59855' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.09375' F='Inh'/>
+                    <Cell N='Y' V='0.375' F='Inh'/>
+                </Row>
+                <Row T='LineTo' IX='5'>
+                    <Cell N='X' V='-0.09375' F='Inh'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+output(user harus roro)
+            </Text>
+        </Shape>
+        <Shape ID='74' Type='Shape' Master='15'>
+            <Cell N='PinX' V='6.61405' U='IN' F='Inh'/>
+            <Cell N='PinY' V='6.83255' F='Inh'/>
+            <Cell N='Width' V='0.8881' U='IN' F='GUARD(EndX-BeginX)'/>
+            <Cell N='Height' V='-0.25' F='GUARD(-0.25DL)'/>
+            <Cell N='LocPinX' V='0.44405' U='IN' F='Inh'/>
+            <Cell N='LocPinY' V='-0.125' F='Inh'/>
+            <Cell N='BeginX' V='6.17' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='BeginY' V='6.8326' F='_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)'/>
+            <Cell N='EndX' V='7.0581' U='IN' F='PAR(PNT(Sheet.73!Connections.X1,Sheet.73!Connections.Y1))'/>
+            <Cell N='EndY' V='6.8325' F='PAR(PNT(Sheet.73!Connections.X1,Sheet.73!Connections.Y1))'/>
+            <Cell N='LayerMember' V='1'/>
+            <Cell N='BegTrigger' V='2' F='_XFTRIGGER(Sheet.25!EventXFMod)'/>
+            <Cell N='EndTrigger' V='2' F='_XFTRIGGER(Sheet.73!EventXFMod)'/>
+            <Cell N='ShapeRouteStyle' V='1'/>
+            <Cell N='ConLineRouteExt' V='1'/>
+            <Cell N='TxtPinX' V='0.4440000000000017' F='Inh'/>
+            <Cell N='TxtPinY' V='-0.1250499999999981' F='Inh'/>
+            <Cell N='TxtWidth' V='0.8333333333333333' F='Inh'/>
+            <Cell N='TxtHeight' V='0.3111626369900173' F='Inh'/>
+            <Cell N='TxtLocPinX' V='0.4166666666666666' F='Inh'/>
+            <Cell N='TxtLocPinY' V='0.1555813184950087' F='Inh'/>
+            <Section N='Control'>
+                <Row N='TextPosition'>
+                    <Cell N='X' V='0.4440000000000017'/>
+                    <Cell N='Y' V='-0.1250499999999981'/>
+                    <Cell N='XDyn' V='0.4440000000000017' F='Inh'/>
+                    <Cell N='YDyn' V='-0.1250499999999981' F='Inh'/>
+                    <Cell N='XCon' V='0' F='Inh'/>
+                </Row>
+            </Section>
+            <Section N='Character'>
+                <Row IX='0'>
+                    <Cell N='Font' V='Calibri'/>
+                    <Cell N='Style' V='0'/>
+                    <Cell N='Size' V='0.1666666666666667'/>
+                </Row>
+            </Section>
+            <Section N='Geometry' IX='0'>
+                <Row T='MoveTo' IX='1'>
+                    <Cell N='Y' V='-0.1249500000000019'/>
+                </Row>
+                <Row T='LineTo' IX='2'>
+                    <Cell N='X' V='0.1875'/>
+                    <Cell N='Y' V='-0.1249500000000019'/>
+                </Row>
+                <Row T='LineTo' IX='3'>
+                    <Cell N='X' V='0.1875'/>
+                    <Cell N='Y' V='-0.1250499999999981'/>
+                </Row>
+                <Row T='LineTo' IX='4'>
+                    <Cell N='X' V='0.8881'/>
+                    <Cell N='Y' V='-0.1250499999999981'/>
+                </Row>
+            </Section>
+            <Text>
+                <cp IX='0'/>
+                <pp IX='0'/>
+tidak
+            </Text>
+        </Shape>
+    </Shapes>
+    <Connects>
+        <Connect FromSheet='74' FromCell='BeginX' FromPart='9' ToSheet='25' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='58' FromCell='BeginX' FromPart='9' ToSheet='31' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='52' FromCell='EndX' FromPart='12' ToSheet='50' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='52' FromCell='BeginX' FromPart='9' ToSheet='49' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='45' FromCell='EndX' FromPart='12' ToSheet='31' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='45' FromCell='BeginX' FromPart='9' ToSheet='29' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='44' FromCell='BeginX' FromPart='9' ToSheet='31' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='41' FromCell='BeginX' FromPart='9' ToSheet='27' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='36' FromCell='BeginX' FromPart='9' ToSheet='27' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='36' FromCell='EndX' FromPart='12' ToSheet='29' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='37' FromCell='BeginX' FromPart='9' ToSheet='28' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='37' FromCell='EndX' FromPart='12' ToSheet='27' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='38' FromCell='BeginX' FromPart='9' ToSheet='25' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='38' FromCell='EndX' FromPart='12' ToSheet='28' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='40' FromCell='BeginX' FromPart='9' ToSheet='24' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='40' FromCell='EndX' FromPart='12' ToSheet='25' ToCell='PinX' ToPart='3'/>
+        <Connect FromSheet='74' FromCell='EndX' FromPart='12' ToSheet='73' ToCell='Connections.X1' ToPart='100'/>
+        <Connect FromSheet='58' FromCell='EndX' FromPart='12' ToSheet='60' ToCell='Connections.X1' ToPart='100'/>
+        <Connect FromSheet='44' FromCell='EndX' FromPart='12' ToSheet='49' ToCell='Connections.X4' ToPart='103'/>
+        <Connect FromSheet='41' FromCell='EndX' FromPart='12' ToSheet='59' ToCell='Connections.X5' ToPart='104'/>
+    </Connects>
+</PageContents>

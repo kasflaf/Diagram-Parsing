@@ -1,0 +1,1272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:PageContents xmlns:ns0="http://schemas.microsoft.com/office/visio/2012/main" xml:space="preserve">
+    <ns0:Shapes>
+        <ns0:Shape ID="24" Type="Shape" Master="2">
+            <ns0:Cell N="PinX" V="5.67" />
+            <ns0:Cell N="PinY" V="7.8309" />
+            <ns0:Cell N="Width" V="1.1158" />
+            <ns0:Cell N="LocPinX" V="0.5579" F="Inh" />
+            <ns0:Cell N="LayerMember" V="0" />
+            <ns0:Cell N="LineWeight" V="0.01041666666666667" U="PT" F="Inh" />
+            <ns0:Cell N="LineColor" V="#31528f" F="Inh" />
+            <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+            <ns0:Cell N="TxtPinX" V="0.5579" F="Inh" />
+            <ns0:Cell N="TxtWidth" V="1.1158" F="Inh" />
+            <ns0:Cell N="TxtLocPinX" V="0.5579" F="Inh" />
+            <ns0:Cell N="FillForegnd" V="red" />
+            <ns0:Section N="Actions">
+                <ns0:Row N="SetDefaultSize">
+                    <ns0:Cell N="Invisible" V="0" F="Inh" />
+                </ns0:Row>
+            </ns0:Section>
+            <ns0:Section N="Character">
+                <ns0:Row IX="0">
+                    <ns0:Cell N="Font" V="Calibri" />
+                    <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                    <ns0:Cell N="Style" V="0" />
+                    <ns0:Cell N="Size" V="0.1388888888888889" />
+                </ns0:Row>
+            </ns0:Section>
+            <ns0:Section N="Connection">
+                <ns0:Row T="Connection" IX="0">
+                    <ns0:Cell N="X" V="0.5579" F="Inh" />
+                </ns0:Row>
+                <ns0:Row T="Connection" IX="1">
+                    <ns0:Cell N="X" V="0.5579" F="Inh" />
+                </ns0:Row>
+                <ns0:Row T="Connection" IX="3">
+                    <ns0:Cell N="X" V="1.1158" F="Inh" />
+                </ns0:Row>
+            </ns0:Section>
+            <ns0:Section N="Geometry" IX="0">
+                <ns0:Row T="LineTo" IX="2">
+                    <ns0:Cell N="X" V="0.9283" U="IN" F="Inh" />
+                </ns0:Row>
+                <ns0:Row T="EllipticalArcTo" IX="3">
+                    <ns0:Cell N="X" V="0.9283" U="IN" F="Inh" />
+                    <ns0:Cell N="A" V="1.1158" U="DL" F="Inh" />
+                </ns0:Row>
+            </ns0:Section>
+            <ns0:Text>hancurkancandi() modified<ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+        </ns0:Text>
+        <ns0:Section N="Property">
+            <ns0:Row N="tesdata1">
+                <ns0:Cell N="Label" V="tesdata1" />
+                <ns0:Cell N="Value" V="2025-06-24" />
+                <ns0:Cell N="Type" V="0" />
+            </ns0:Row>
+            <ns0:Row N="tesdata2">
+                <ns0:Cell N="Label" V="tesdata2" />
+                <ns0:Cell N="Value" V="Budi" />
+                <ns0:Cell N="Type" V="0" />
+            </ns0:Row>
+        </ns0:Section>
+    </ns0:Shape>
+    <ns0:Shape ID="25" Type="Shape" Master="7">
+        <ns0:Cell N="PinX" V="5.67" />
+        <ns0:Cell N="PinY" V="6.8326" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.01041666666666667" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#31528f" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+apakah user roro?
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="27" Type="Shape" Master="7">
+        <ns0:Cell N="PinX" V="5.6701" />
+        <ns0:Cell N="PinY" V="5.0504" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.01041666666666667" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#31528f" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+apakah id candi terdaftar
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="28" Type="Shape" Master="5">
+        <ns0:Cell N="PinX" V="5.6701" />
+        <ns0:Cell N="PinY" V="5.8342" />
+        <ns0:Cell N="Width" V="1.4999" />
+        <ns0:Cell N="Height" V="0.375" />
+        <ns0:Cell N="LocPinX" V="0.74995" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.003472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#c8c8c8" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Cell N="TxtPinX" V="0.74995" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.9999333333333382" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.375" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.4999666666666691" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1875" F="Inh" />
+        <ns0:Section N="Actions">
+            <ns0:Row N="SetDefaultSize">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row N="ResizeWithText">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Times New Roman" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1666666666666667" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Connection">
+            <ns0:Row T="Connection" IX="0">
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="1">
+                <ns0:Cell N="X" V="1.4999" F="Inh" />
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="2">
+                <ns0:Cell N="X" V="0.74995" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="3">
+                <ns0:Cell N="X" V="0.74995" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Scratch">
+            <ns0:Row IX="0">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="1.40615" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="1.59365" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="5">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+input(id_candi)
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="29" Type="Shape" Master="5">
+        <ns0:Cell N="PinX" V="5.67" />
+        <ns0:Cell N="PinY" V="4.0521" />
+        <ns0:Cell N="Width" V="1.7955" />
+        <ns0:Cell N="Height" V="0.375" />
+        <ns0:Cell N="LocPinX" V="0.89775" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.003472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#c8c8c8" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Cell N="TxtPinX" V="0.89775" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="1.197000000000006" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.375" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.5985000000000029" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1875" F="Inh" />
+        <ns0:Section N="Actions">
+            <ns0:Row N="SetDefaultSize">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row N="ResizeWithText">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Connection">
+            <ns0:Row T="Connection" IX="0">
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="1">
+                <ns0:Cell N="X" V="1.7955" F="Inh" />
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="2">
+                <ns0:Cell N="X" V="0.89775" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="3">
+                <ns0:Cell N="X" V="0.89775" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Scratch">
+            <ns0:Row IX="0">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="1.70175" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="1.88925" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="5">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+input(konfirmasi)
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="31" Type="Shape" Master="7">
+        <ns0:Cell N="PinX" V="5.6701" />
+        <ns0:Cell N="PinY" V="2.9497" />
+        <ns0:Cell N="Width" V="2.1249" />
+        <ns0:Cell N="Height" V="0.9582" />
+        <ns0:Cell N="LocPinX" V="1.06245" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.4791" F="Inh" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.01041666666666667" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#31528f" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Cell N="TxtPinX" V="1.06245" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.4791" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="1.770749999999993" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.71865" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.8853749999999966" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.359325" F="Inh" />
+        <ns0:Section N="Actions">
+            <ns0:Row N="SetDefaultSize">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row N="ResizeWithText">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Connection">
+            <ns0:Row T="Connection" IX="0">
+                <ns0:Cell N="Y" V="0.4791" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="1">
+                <ns0:Cell N="X" V="2.1249" F="Inh" />
+                <ns0:Cell N="Y" V="0.4791" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="2">
+                <ns0:Cell N="X" V="1.06245" F="Inh" />
+                <ns0:Cell N="Y" V="0.9582" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="3">
+                <ns0:Cell N="X" V="1.06245" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0" F="Inh" />
+                <ns0:Cell N="Y" V="0.4791" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="1.06245" F="Inh" />
+                <ns0:Cell N="Y" V="0.9582" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="2.1249" F="Inh" />
+                <ns0:Cell N="Y" V="0.4791" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="1.06245" F="Inh" />
+                <ns0:Cell N="Y" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="5">
+                <ns0:Cell N="X" V="0" F="Inh" />
+                <ns0:Cell N="Y" V="0.4791" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+konfirmasi (Y/N)
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="36" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="5.67005" F="Inh" />
+        <ns0:Cell N="PinY" V="4.4575" F="Inh" />
+        <ns0:Cell N="Width" V="-0.25" F="GUARD(-0.25DL)" />
+        <ns0:Cell N="Height" V="-0.4358" F="GUARD(EndY-BeginY)" />
+        <ns0:Cell N="LocPinX" V="-0.125" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.2179" F="Inh" />
+        <ns0:Cell N="BeginX" V="5.6701" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="4.6754" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="5.67" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="EndY" V="4.2396" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.27!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.29!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="-0.125049999999999" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.2178500000000008" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2778282864040799" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1389141432020399" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="-0.1250499999999989" />
+                <ns0:Cell N="Y" V="-0.2178500000000011" />
+                <ns0:Cell N="XDyn" V="-0.125049999999999" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.2178500000000008" F="Inh" />
+                <ns0:Cell N="XCon" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="-0.12495" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="-0.12495" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="-0.12505" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="-0.12505" />
+                <ns0:Cell N="Y" V="-0.4358" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+Ya
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="37" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="5.6701" F="Inh" />
+        <ns0:Cell N="PinY" V="5.53605" F="Inh" />
+        <ns0:Cell N="Width" V="0.25" F="GUARD(0.25DL)" />
+        <ns0:Cell N="Height" V="-0.25" F="GUARD(-0.25DL)" />
+        <ns0:Cell N="LocPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.125" F="Inh" />
+        <ns0:Cell N="BeginX" V="5.6701" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="5.6467" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="5.6701" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="EndY" V="5.4254" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.28!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.27!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConFixedCode" V="6" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.1250000013969839" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2777777777777778" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1388888888888889" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.125" />
+                <ns0:Cell N="Y" V="-0.1250000013969839" />
+                <ns0:Cell N="XDyn" V="0.125" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.1250000013969839" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0.125" />
+                <ns0:Cell N="Y" V="-0.01435000000000031" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.125" />
+                <ns0:Cell N="Y" V="-0.23565" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3" Del="1" />
+        </ns0:Section>
+    </ns0:Shape>
+    <ns0:Shape ID="38" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="5.67005" F="Inh" />
+        <ns0:Cell N="PinY" V="6.23965" F="Inh" />
+        <ns0:Cell N="Width" V="0.25" F="GUARD(0.25DL)" />
+        <ns0:Cell N="Height" V="-0.4359" F="GUARD(EndY-BeginY)" />
+        <ns0:Cell N="LocPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.21795" F="Inh" />
+        <ns0:Cell N="BeginX" V="5.67" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="6.4576" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="5.6701" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="EndY" V="6.0217" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.25!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.28!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.12505" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.2179" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2778282864040799" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1389141432020399" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.12505" />
+                <ns0:Cell N="Y" V="-0.2179" />
+                <ns0:Cell N="XDyn" V="0.12505" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.2179" F="Inh" />
+                <ns0:Cell N="XCon" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0.12495" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.12495" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="0.12505" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.12505" />
+                <ns0:Cell N="Y" V="-0.4359" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+Ya
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="40" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="5.67" F="Inh" />
+        <ns0:Cell N="PinY" V="7.4255" F="Inh" />
+        <ns0:Cell N="Width" V="0.25" F="GUARD(0.25DL)" />
+        <ns0:Cell N="Height" V="-0.4358" F="GUARD(EndY-BeginY)" />
+        <ns0:Cell N="LocPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.2179" F="Inh" />
+        <ns0:Cell N="BeginX" V="5.67" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="7.6434" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="5.67" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="EndY" V="7.2076" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.24!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.25!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConFixedCode" V="6" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.2178999930620194" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2777777777777778" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1388888888888889" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.125" />
+                <ns0:Cell N="Y" V="-0.2178999930620194" />
+                <ns0:Cell N="XDyn" V="0.125" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.2178999930620194" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0.125" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.125" />
+                <ns0:Cell N="Y" V="-0.4358" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3" Del="1" />
+        </ns0:Section>
+    </ns0:Shape>
+    <ns0:Shape ID="41" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="6.676804766265551" F="Inh" />
+        <ns0:Cell N="PinY" V="5.036833851464589" F="Inh" />
+        <ns0:Cell N="Width" V="1.013409532531102" F="GUARD(EndX-BeginX)" />
+        <ns0:Cell N="Height" V="-0.25" F="GUARD(-0.25DL)" />
+        <ns0:Cell N="LocPinX" V="0.5067047662655511" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.125" F="Inh" />
+        <ns0:Cell N="BeginX" V="6.1701" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="5.0504" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="7.183509532531102" F="PAR(PNT(Sheet.59!Connections.X5,Sheet.59!Connections.Y5))" />
+        <ns0:Cell N="EndY" V="5.02326770292918" F="PAR(PNT(Sheet.59!Connections.X5,Sheet.59!Connections.Y5))" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.27!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.59!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.4931386177301394" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.1385661485354106" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2778282864040799" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1389141432020399" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.4931386177301396" />
+                <ns0:Cell N="Y" V="-0.1385661485354106" />
+                <ns0:Cell N="XDyn" V="0.4931386177301394" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.1385661485354106" F="Inh" />
+                <ns0:Cell N="XCon" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="Y" V="-0.1114338514645894" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.1875" />
+                <ns0:Cell N="Y" V="-0.1114338514645894" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="0.1875" />
+                <ns0:Cell N="Y" V="-0.1385661485354106" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="1.013409532531099" />
+                <ns0:Cell N="Y" V="-0.1385661485354106" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+Tidak
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="44" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="5.6701" F="Inh" />
+        <ns0:Cell N="PinY" V="2.21435" F="Inh" />
+        <ns0:Cell N="Width" V="0.25" F="GUARD(0.25DL)" />
+        <ns0:Cell N="Height" V="-0.5124999999999986" F="GUARD(EndY-BeginY)" />
+        <ns0:Cell N="LocPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.2562499999999993" F="Inh" />
+        <ns0:Cell N="BeginX" V="5.6701" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="2.4706" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="5.6701" F="PAR(PNT(Sheet.49!Connections.X4,Sheet.49!Connections.Y4))" />
+        <ns0:Cell N="EndY" V="1.9581" F="PAR(PNT(Sheet.49!Connections.X4,Sheet.49!Connections.Y4))" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.31!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.49!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConFixedCode" V="4" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.2562499940395359" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2778282864040799" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1389141432020399" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.125" />
+                <ns0:Cell N="Y" V="-0.2562499940395359" />
+                <ns0:Cell N="XDyn" V="0.125" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.2562499940395359" F="Inh" />
+                <ns0:Cell N="XCon" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0.125" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.125" />
+                <ns0:Cell N="Y" V="-0.5124999999999986" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3" Del="1" />
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+Y
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="45" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="5.67005" F="Inh" />
+        <ns0:Cell N="PinY" V="3.6467" F="Inh" />
+        <ns0:Cell N="Width" V="0.25" F="GUARD(0.25DL)" />
+        <ns0:Cell N="Height" V="-0.4358" F="GUARD(EndY-BeginY)" />
+        <ns0:Cell N="LocPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.2179" F="Inh" />
+        <ns0:Cell N="BeginX" V="5.67" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="3.8646" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="5.6701" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="EndY" V="3.4288" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.29!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.31!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.12505" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.2178500000000008" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2777777777777778" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1388888888888889" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.12505" />
+                <ns0:Cell N="Y" V="-0.2178500000000011" />
+                <ns0:Cell N="XDyn" V="0.12505" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.2178500000000008" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0.12495" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.12495" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="0.12505" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.12505" />
+                <ns0:Cell N="Y" V="-0.4358" />
+            </ns0:Row>
+        </ns0:Section>
+    </ns0:Shape>
+    <ns0:Shape ID="49" Type="Shape" Master="11">
+        <ns0:Cell N="PinX" V="5.6701" />
+        <ns0:Cell N="PinY" V="1.7706" />
+        <ns0:Cell N="Width" V="2.8644" />
+        <ns0:Cell N="Height" V="0.375" />
+        <ns0:Cell N="LocPinX" V="1.4322" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.003472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#c8c8c8" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Cell N="TxtPinX" V="1.4322" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="2.8644" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.375" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="1.4322" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1875" F="Inh" />
+        <ns0:Section N="Actions">
+            <ns0:Row N="SetDefaultSize">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row N="ResizeWithText">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Times New Roman" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Connection">
+            <ns0:Row T="Connection" IX="0">
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="1">
+                <ns0:Cell N="X" V="2.8644" F="Inh" />
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="2">
+                <ns0:Cell N="X" V="1.4322" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="3">
+                <ns0:Cell N="X" V="1.4322" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0" F="Inh" />
+                <ns0:Cell N="Y" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="2.8644" F="Inh" />
+                <ns0:Cell N="Y" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="2.8644" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="5">
+                <ns0:Cell N="X" V="0" F="Inh" />
+                <ns0:Cell N="Y" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+menghapus informasi candi dari array candi
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="50" Type="Shape" Master="2">
+        <ns0:Cell N="PinX" V="5.6702" />
+        <ns0:Cell N="PinY" V="0.9768" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.01041666666666667" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#31528f" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+end
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="52" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="5.67015" F="Inh" />
+        <ns0:Cell N="PinY" V="1.3737" F="Inh" />
+        <ns0:Cell N="Width" V="0.25" F="GUARD(0.25DL)" />
+        <ns0:Cell N="Height" V="-0.4188000000000012" F="GUARD(EndY-BeginY)" />
+        <ns0:Cell N="LocPinX" V="0.125" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.2094000000000006" F="Inh" />
+        <ns0:Cell N="BeginX" V="5.6701" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="1.5831" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="5.6702" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="EndY" V="1.1643" F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.49!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.50!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.12505" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.20935" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2777777777777778" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1388888888888889" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.1250500000000008" />
+                <ns0:Cell N="Y" V="-0.20935" />
+                <ns0:Cell N="XDyn" V="0.12505" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.20935" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="0.12495" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.12495" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="0.1250500000000008" />
+                <ns0:Cell N="Y" V="-0.1875" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.1250500000000008" />
+                <ns0:Cell N="Y" V="-0.4188000000000012" />
+            </ns0:Row>
+        </ns0:Section>
+    </ns0:Shape>
+    <ns0:Shape ID="58" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="7.1239" U="IN" F="Inh" />
+        <ns0:Cell N="PinY" V="2.94975" F="Inh" />
+        <ns0:Cell N="Width" V="0.7827" U="IN" F="GUARD(EndX-BeginX)" />
+        <ns0:Cell N="Height" V="0.25" F="GUARD(0.25DL)" />
+        <ns0:Cell N="LocPinX" V="0.39135" U="IN" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.125" F="Inh" />
+        <ns0:Cell N="BeginX" V="6.73255" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="2.9497" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="7.51525" U="IN" F="PAR(PNT(Sheet.60!Connections.X1,Sheet.60!Connections.Y1))" />
+        <ns0:Cell N="EndY" V="2.9498" F="PAR(PNT(Sheet.60!Connections.X1,Sheet.60!Connections.Y1))" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.31!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.60!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.3913" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.12505" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.6944444444444444" U="PT" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.2778282864040799" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.3472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1389141432020399" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.3913" />
+                <ns0:Cell N="Y" V="0.12505" />
+                <ns0:Cell N="XDyn" V="0.3913" F="Inh" />
+                <ns0:Cell N="YDyn" V="0.12505" F="Inh" />
+                <ns0:Cell N="XCon" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" U="PT" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="Y" V="0.12495" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.1875" />
+                <ns0:Cell N="Y" V="0.12495" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="0.1875" />
+                <ns0:Cell N="Y" V="0.12505" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.7827" />
+                <ns0:Cell N="Y" V="0.12505" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+N
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="59" Type="Shape" Master="5">
+        <ns0:Cell N="PinX" V="8.3105" />
+        <ns0:Cell N="PinY" V="4.9732" />
+        <ns0:Cell N="Width" V="2.5048" />
+        <ns0:Cell N="Height" V="0.375" />
+        <ns0:Cell N="LocPinX" V="1.2524" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.003472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#c8c8c8" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Cell N="TxtPinX" V="1.2524" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="1.669866666666675" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.375" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.8349333333333374" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1875" F="Inh" />
+        <ns0:Section N="Actions">
+            <ns0:Row N="SetDefaultSize">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row N="ResizeWithText">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Connection">
+            <ns0:Row T="Connection" IX="0">
+                <ns0:Cell N="Y" V="0.1875" F="Height/2" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="1">
+                <ns0:Cell N="X" V="2.5048" F="Width" />
+                <ns0:Cell N="Y" V="0.1875" F="Height/2" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="2">
+                <ns0:Cell N="X" V="1.2524" F="Width/2" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="3">
+                <ns0:Cell N="X" V="1.2524" F="Width/2" />
+                <ns0:Cell N="Y" V="0.375" F="Height" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="4">
+                <ns0:Cell N="X" V="0.1254095325311025" F="Width*0.050067683060964" />
+                <ns0:Cell N="Y" V="0.2375677029291788" F="Height*0.63351387447781" />
+                <ns0:Cell N="DirX" V="0" />
+                <ns0:Cell N="DirY" V="0" />
+                <ns0:Cell N="Type" V="2" />
+                <ns0:Cell N="AutoGen" V="1" />
+                <ns0:Cell N="Prompt" V="" F="No Formula" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Scratch">
+            <ns0:Row IX="0">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="2.41105" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="2.59855" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="5">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+candi tidak terdaftar
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="60" Type="Shape" Master="5">
+        <ns0:Cell N="PinX" V="8.5777" />
+        <ns0:Cell N="PinY" V="2.9498" />
+        <ns0:Cell N="Width" V="2.1249" />
+        <ns0:Cell N="Height" V="0.375" />
+        <ns0:Cell N="LocPinX" V="1.06245" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.003472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#c8c8c8" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Cell N="TxtPinX" V="1.06245" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="1.416600000000007" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.375" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.7083000000000036" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1875" F="Inh" />
+        <ns0:Section N="Actions">
+            <ns0:Row N="SetDefaultSize">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row N="ResizeWithText">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Connection">
+            <ns0:Row T="Connection" IX="0">
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="1">
+                <ns0:Cell N="X" V="2.1249" F="Inh" />
+                <ns0:Cell N="Y" V="0.1875" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="2">
+                <ns0:Cell N="X" V="1.06245" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="3">
+                <ns0:Cell N="X" V="1.06245" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Scratch">
+            <ns0:Row IX="0">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="2.03115" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="2.21865" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="5">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+output(candi tidak jadi dihapus)
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="73" NameU="Data.73" Name="Data.73" Type="Shape" Master="5">
+        <ns0:Cell N="PinX" V="8.3105" />
+        <ns0:Cell N="PinY" V="6.8325" />
+        <ns0:Cell N="Width" V="2.5048" />
+        <ns0:Cell N="Height" V="0.375" />
+        <ns0:Cell N="LocPinX" V="1.2524" F="Inh" />
+        <ns0:Cell N="LocPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="LayerMember" V="0" />
+        <ns0:Cell N="LineWeight" V="0.003472222222222222" U="PT" F="Inh" />
+        <ns0:Cell N="LineColor" V="#c8c8c8" F="Inh" />
+        <ns0:Cell N="FillBkgnd" V="#4d4d4d" F="Inh" />
+        <ns0:Cell N="TxtPinX" V="1.2524" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="0.1875" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="1.669866666666675" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.375" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.8349333333333374" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1875" F="Inh" />
+        <ns0:Section N="Actions">
+            <ns0:Row N="SetDefaultSize">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+            <ns0:Row N="ResizeWithText">
+                <ns0:Cell N="Invisible" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Color" V="#feffff" F="THEMEVAL(&quot;TextColor&quot;,RGB(0,0,0))" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1388888888888889" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Connection">
+            <ns0:Row T="Connection" IX="0">
+                <ns0:Cell N="Y" V="0.1875" F="Height/2" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="1">
+                <ns0:Cell N="X" V="2.5048" F="Width" />
+                <ns0:Cell N="Y" V="0.1875" F="Height/2" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="2">
+                <ns0:Cell N="X" V="1.2524" F="Width/2" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="3">
+                <ns0:Cell N="X" V="1.2524" F="Width/2" />
+                <ns0:Cell N="Y" V="0.375" F="Height" />
+            </ns0:Row>
+            <ns0:Row T="Connection" IX="4">
+                <ns0:Cell N="X" V="0.1254095325311025" F="Width*0.050067683060964" />
+                <ns0:Cell N="Y" V="0.2375677029291788" F="Height*0.63351387447781" />
+                <ns0:Cell N="DirX" V="0" />
+                <ns0:Cell N="DirY" V="0" />
+                <ns0:Cell N="Type" V="2" />
+                <ns0:Cell N="AutoGen" V="1" />
+                <ns0:Cell N="Prompt" V="" F="No Formula" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Scratch">
+            <ns0:Row IX="0">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="2.41105" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="2.59855" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.09375" F="Inh" />
+                <ns0:Cell N="Y" V="0.375" F="Inh" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="5">
+                <ns0:Cell N="X" V="-0.09375" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+output(user harus roro)
+        </ns0:Text>
+    </ns0:Shape>
+    <ns0:Shape ID="74" Type="Shape" Master="15">
+        <ns0:Cell N="PinX" V="6.61405" U="IN" F="Inh" />
+        <ns0:Cell N="PinY" V="6.83255" F="Inh" />
+        <ns0:Cell N="Width" V="0.8881" U="IN" F="GUARD(EndX-BeginX)" />
+        <ns0:Cell N="Height" V="-0.25" F="GUARD(-0.25DL)" />
+        <ns0:Cell N="LocPinX" V="0.44405" U="IN" F="Inh" />
+        <ns0:Cell N="LocPinY" V="-0.125" F="Inh" />
+        <ns0:Cell N="BeginX" V="6.17" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="BeginY" V="6.8326" F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)" />
+        <ns0:Cell N="EndX" V="7.0581" U="IN" F="PAR(PNT(Sheet.73!Connections.X1,Sheet.73!Connections.Y1))" />
+        <ns0:Cell N="EndY" V="6.8325" F="PAR(PNT(Sheet.73!Connections.X1,Sheet.73!Connections.Y1))" />
+        <ns0:Cell N="LayerMember" V="1" />
+        <ns0:Cell N="BegTrigger" V="2" F="_XFTRIGGER(Sheet.25!EventXFMod)" />
+        <ns0:Cell N="EndTrigger" V="2" F="_XFTRIGGER(Sheet.73!EventXFMod)" />
+        <ns0:Cell N="ShapeRouteStyle" V="1" />
+        <ns0:Cell N="ConLineRouteExt" V="1" />
+        <ns0:Cell N="TxtPinX" V="0.4440000000000017" F="Inh" />
+        <ns0:Cell N="TxtPinY" V="-0.1250499999999981" F="Inh" />
+        <ns0:Cell N="TxtWidth" V="0.8333333333333333" F="Inh" />
+        <ns0:Cell N="TxtHeight" V="0.3111626369900173" F="Inh" />
+        <ns0:Cell N="TxtLocPinX" V="0.4166666666666666" F="Inh" />
+        <ns0:Cell N="TxtLocPinY" V="0.1555813184950087" F="Inh" />
+        <ns0:Section N="Control">
+            <ns0:Row N="TextPosition">
+                <ns0:Cell N="X" V="0.4440000000000017" />
+                <ns0:Cell N="Y" V="-0.1250499999999981" />
+                <ns0:Cell N="XDyn" V="0.4440000000000017" F="Inh" />
+                <ns0:Cell N="YDyn" V="-0.1250499999999981" F="Inh" />
+                <ns0:Cell N="XCon" V="0" F="Inh" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Character">
+            <ns0:Row IX="0">
+                <ns0:Cell N="Font" V="Calibri" />
+                <ns0:Cell N="Style" V="0" />
+                <ns0:Cell N="Size" V="0.1666666666666667" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Section N="Geometry" IX="0">
+            <ns0:Row T="MoveTo" IX="1">
+                <ns0:Cell N="Y" V="-0.1249500000000019" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="2">
+                <ns0:Cell N="X" V="0.1875" />
+                <ns0:Cell N="Y" V="-0.1249500000000019" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="3">
+                <ns0:Cell N="X" V="0.1875" />
+                <ns0:Cell N="Y" V="-0.1250499999999981" />
+            </ns0:Row>
+            <ns0:Row T="LineTo" IX="4">
+                <ns0:Cell N="X" V="0.8881" />
+                <ns0:Cell N="Y" V="-0.1250499999999981" />
+            </ns0:Row>
+        </ns0:Section>
+        <ns0:Text>
+            <ns0:cp IX="0" />
+            <ns0:pp IX="0" />
+tidak
+        </ns0:Text>
+    </ns0:Shape>
+</ns0:Shapes>
+<ns0:Connects>
+    <ns0:Connect FromSheet="74" FromCell="BeginX" FromPart="9" ToSheet="25" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="58" FromCell="BeginX" FromPart="9" ToSheet="31" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="52" FromCell="EndX" FromPart="12" ToSheet="50" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="52" FromCell="BeginX" FromPart="9" ToSheet="49" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="45" FromCell="EndX" FromPart="12" ToSheet="31" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="45" FromCell="BeginX" FromPart="9" ToSheet="29" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="44" FromCell="BeginX" FromPart="9" ToSheet="31" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="41" FromCell="BeginX" FromPart="9" ToSheet="27" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="36" FromCell="BeginX" FromPart="9" ToSheet="27" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="36" FromCell="EndX" FromPart="12" ToSheet="29" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="37" FromCell="BeginX" FromPart="9" ToSheet="28" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="37" FromCell="EndX" FromPart="12" ToSheet="27" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="38" FromCell="BeginX" FromPart="9" ToSheet="25" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="38" FromCell="EndX" FromPart="12" ToSheet="28" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="40" FromCell="BeginX" FromPart="9" ToSheet="24" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="40" FromCell="EndX" FromPart="12" ToSheet="25" ToCell="PinX" ToPart="3" />
+    <ns0:Connect FromSheet="74" FromCell="EndX" FromPart="12" ToSheet="73" ToCell="Connections.X1" ToPart="100" />
+    <ns0:Connect FromSheet="58" FromCell="EndX" FromPart="12" ToSheet="60" ToCell="Connections.X1" ToPart="100" />
+    <ns0:Connect FromSheet="44" FromCell="EndX" FromPart="12" ToSheet="49" ToCell="Connections.X4" ToPart="103" />
+    <ns0:Connect FromSheet="41" FromCell="EndX" FromPart="12" ToSheet="59" ToCell="Connections.X5" ToPart="104" />
+</ns0:Connects>
+</ns0:PageContents>
