@@ -1,6 +1,6 @@
 # Diagram Parsing Project
 
-This project provides tools for working with Microsoft Visio (.vsdx) files, including modification capabilities and SVG conversion.
+This project provides code and file examples for working with Microsoft Visio (.vsdx) files, including modification capabilities and SVG conversion.
 
 ## Project Structure
 
